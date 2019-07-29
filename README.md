@@ -1,6 +1,6 @@
 # VR_bowling
 
-![alt text](https://pasteboard.co/IqhoL7R.png)
+![VR_bowling](https://i.screenshot.net/7e0gqb4)
 
 # Details
 A VR game in unity with VRTK SDK.
